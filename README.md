@@ -1,54 +1,18 @@
-<header>
+My (2023) introduction to the Software Freedom Community:
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+My name is Deep Pandya. I live in Gujarat, India. I am a user and supporter of the Free/Libre/Swatantra software philosophy.
 
-# GitHub Pages
+I migrated from Windows to Ubuntu in 2013 and then after learning a lot about the history of GNU Operating System, Richard Stallman and the Free Software Foundation, I started liking the philosophy of GNU Project and being an Ubuntu user, switched to Trisquel GNU/Linux-Libre, one of the distro endorsed by GNU. On my Android device, I also started to replace proprietary applications with apps available on F-Droid. Whenever anyone talks about linux and open source, I teach them about GNU and Free Software.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+In recent years, I chosed the Debian and recommended others to support it (https://lignuxblog.wordpress.com/2020/08/27/reasons-to-choose-debian/) as I like community based distro who cares about the software freedom.
+But recently I am shocked to find that with the 12th release, Debain, one of the most successful free software community had to change their policy to include non-free (proprietary) softwares with distribution image (ISO).
 
-</header>
+So, I think now it is the critical time for the free software community to work hard on freeing the hardware or to manufacture hardwares which runs on free softwares. This is the only way to save the software world from getting more and more dominated by proprietary and unethical components.
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+Though I am not a programmer or developer, as an user and hard core supporter of the Free Software Philosophy, I would like to contribute in the possible ways.
 
-## Step 1: Enable GitHub Pages
+By the way, following are the topics looks interesting to me:
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+1. GNU Guix developing advanced system distribution.
+2. Hyperbola migrating to BSD
+3. 100% Libre operating system project by India
